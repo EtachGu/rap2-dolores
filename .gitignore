@@ -18,4 +18,4 @@ yarn.lock
 src/**/*.css
 
 # build
-/build
+
